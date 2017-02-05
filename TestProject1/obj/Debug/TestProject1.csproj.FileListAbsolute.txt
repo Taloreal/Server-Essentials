@@ -1,0 +1,9 @@
+C:\Users\Naate\Documents\Visual Studio 2010\Projects\Naates Chat Server\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\Naate\Documents\Visual Studio 2010\Projects\Naates Chat Server\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\Naate\Documents\Visual Studio 2010\Projects\Naates Chat Server\TestProject1\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Naate\Documents\Visual Studio 2010\Projects\Naates Chat Server\TestProject1\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Naate\Documents\Visual Studio 2010\Projects\Naates Chat Server\TestProject1\bin\Debug\WindowsFormsApplication2_Accessor.exe
+C:\Users\Naate\Documents\Visual Studio 2010\Projects\Naates Chat Server\TestProject1\bin\Debug\WindowsFormsApplication2_Accessor.pdb
+C:\Users\Naate\Documents\Visual Studio 2010\Projects\Naates Chat Server\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Naate\Documents\Visual Studio 2010\Projects\Naates Chat Server\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\Naate\Documents\Visual Studio 2010\Projects\Naates Chat Server\TestProject1\obj\Debug\TestProject1.pdb

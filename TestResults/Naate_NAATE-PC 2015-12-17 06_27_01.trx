@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="fb87cae5-67bb-4c06-b85b-6ded28f9718d" name="Naate@NAATE-PC 2015-12-17 06:27:01" runUser="NAATE-PC\Naate" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="f48b0d43-42d0-4a8f-9c9e-6c6efdb5a624">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Naate_NAATE-PC 2015-12-17 06_27_01">
+      <DeploymentItem filename="C:\Users\Naate\Documents\Visual Studio 2010\Projects\Naates Chat Server\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-12-17T06:27:01.2570126-05:00" queuing="2015-12-17T06:27:01.3507638-05:00" start="2015-12-17T06:27:01.3507638-05:00" finish="2015-12-17T06:27:01.6632771-05:00" />
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="1" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="NAATE-PC" outcome="Warning" timestamp="2015-12-17T06:27:01.3507638-05:00">
+        <Text>Deployment is currently disabled. The deployment item 'WindowsFormsApplication2.exe' on test 'TestProject1.ClientTest.ByteToStringTest' was not deployed.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ByteToStringTest" storage="c:\users\naate\documents\visual studio 2010\projects\naates chat server\testproject1\bin\debug\testproject1.dll" id="b74a4274-5a90-03a5-d7c1-7a9b4ee83d7d">
+      <DeploymentItems>
+        <DeploymentItem filename="WindowsFormsApplication2.exe" />
+      </DeploymentItems>
+      <Execution id="6fd4ad22-a84c-41f4-b4e5-cf829a4f5815" />
+      <TestMethod codeBase="C:/Users/Naate/Documents/Visual Studio 2010/Projects/Naates Chat Server/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.ClientTest, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ByteToStringTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b74a4274-5a90-03a5-d7c1-7a9b4ee83d7d" executionId="6fd4ad22-a84c-41f4-b4e5-cf829a4f5815" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6fd4ad22-a84c-41f4-b4e5-cf829a4f5815" testId="b74a4274-5a90-03a5-d7c1-7a9b4ee83d7d" testName="ByteToStringTest" computerName="NAATE-PC" duration="00:00:00.0487630" startTime="2015-12-17T06:27:01.3663881-05:00" endTime="2015-12-17T06:27:01.6476504-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6fd4ad22-a84c-41f4-b4e5-cf829a4f5815">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. Verify the correctness of this test method.</Message>
+          <StackTrace>   at TestProject1.ClientTest.ByteToStringTest() in C:\Users\Naate\Documents\Visual Studio 2010\Projects\Naates Chat Server\TestProject1\ClientTest.cs:line 80
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
